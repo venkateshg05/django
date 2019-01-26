@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Django==2.1.5
+=======
+Django==2.1.4
+>>>>>>> 64fb2c134a9328e07bc5cf720a1c987694d2c5ff
 django-crispy-forms==1.7.2
 Pillow==5.4.0
 pytz==2018.7
