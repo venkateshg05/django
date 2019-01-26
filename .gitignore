@@ -1,1 +1,4 @@
 mayhem
+*.pyc
+__pycache__/
+
